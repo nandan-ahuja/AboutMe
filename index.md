@@ -39,7 +39,7 @@
 	<tr align="center" >
 		<td>5</td> 
 		<td>My Favourite Site is <a href="http://www.Google.com"> Google.com </a>  </td> 
-		<td><img src="https://1000logos.net/wp-content/uploads/2021/05/Google-logo-768x432.png" width="200px" ></td 
+		<td><img src="https://1000logos.net/wp-content/uploads/2021/05/Google-logo-768x432.png" width="200px" ></td> 
 	</tr>
 
 	<tr align="center" >
