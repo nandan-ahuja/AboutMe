@@ -12,18 +12,19 @@
 <table border="1px" align="center" style="color:navy">
 
 
-<tr >
-		<th>----</th> 
-		<th>----</th> 
-		<th>----</th> 
-	</tr>
-
 
 	<tr >
 		<th>SNo</th> 
 		<th>About Me</th> 
 		<th>Special Effects</th> 
 	</tr>
+
+<tr >
+		<td>----</td> 
+		<td>----</td> 
+		<td>----</td> 
+	</tr>
+
 
 	<tr align="center" >
 		<td>1</td> 
