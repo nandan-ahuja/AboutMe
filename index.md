@@ -12,7 +12,7 @@
 <table border="1px" align="center" style="color:navy">
 
 
-
+---|---|--- 
 	<tr >
 		<th>SNo</th> 
 		<th>About Me</th> 
