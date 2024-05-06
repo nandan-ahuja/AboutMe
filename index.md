@@ -1,5 +1,3 @@
-<html>
-	<body bgcolor="#D3ECE6" >
   	<font face="comic sans ms" color="navy" > 
 
   <h1>
@@ -142,6 +140,4 @@
 <br/><br/><br/><br/><br/><br/><br/>
   </font>
 
-</body>
 
-</html>
