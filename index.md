@@ -10,18 +10,13 @@
 </h1>	
 
 <table border="1px" align="center" style="color:navy">
-<br/><br/><br/><br/>
 	<tr >
 		<th>SNo</th> 
 		<th>About Me</th> 
 		<th>Special Effects</th> 
 	</tr>
 
-<tr >
-		<td>----</td> 
-		<td>----</td> 
-		<td>----</td> 
-	</tr>
+
 
 
 	<tr align="center" >
