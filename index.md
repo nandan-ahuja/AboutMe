@@ -84,14 +84,10 @@
 <br/><br/><br/><br/><br/>
 
 <h3>
-  	<font face="comic sans ms" color="navy" >
-  	<p align="center" >
   		<u>
   	  		Now Pls tell me about Yourself
   		</u>
 
-   </p>
- 
 </h3>	
 
 
