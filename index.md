@@ -16,9 +16,6 @@
 		<th>Special Effects</th> 
 	</tr>
 
-
-
-
 	<tr align="center" >
 		<td>1</td> 
 		<td >I stay in Ghaziabad</td> 
