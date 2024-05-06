@@ -1,4 +1,3 @@
-  	<font face="comic sans ms" color="navy" > 
  
   <h1>
   	  	Hi my Name is Nandan Ahuja . <br/>
@@ -138,6 +137,3 @@
 </table>
 </Center>
 <br/><br/><br/><br/><br/><br/><br/>
-  </font>
-
-
