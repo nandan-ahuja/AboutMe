@@ -1,7 +1,8 @@
 <html>
 	<body bgcolor="#D3ECE6" >
-  <h1>
   	<font face="comic sans ms" color="navy" >
+
+  <h1>
   	<p align="center" >
   	  	Hi my Name is Nandan Ahuja . <br/>
    		On this page, I am going to tell you about myself.
@@ -77,7 +78,6 @@
 
 
 </table>
-  </font>
 
 <br/><br/><br/><br/><br/>
 
@@ -140,6 +140,8 @@
 </form>
 </Center>
 <br/><br/><br/><br/><br/><br/><br/>
+  </font>
+
 </body>
 
 </html>
