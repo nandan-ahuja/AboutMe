@@ -73,9 +73,6 @@
 		<td>I also like dogs, i generally take care of street dogs around my home</td> 
 		<td><img src="https://m.media-amazon.com/images/I/81CLcokYe+L.jpg" width="200px" ></td> 
 	</tr>
-
-
-
 </table>
 
 <br/><br/><br/><br/><br/>
