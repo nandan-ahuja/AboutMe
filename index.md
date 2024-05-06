@@ -92,9 +92,10 @@
 
 
 <Center>
+	<table>
 <form action="http://google.com">
 
-<table>
+
 <tr>	
 	<td><label> First Name : </label></td>
 	<td><input type="text" name="First Name"></td>
@@ -134,8 +135,9 @@
 	<td><button type="reset">Reset</button></td>
 </tr>
 
-</table>
+
 </form>
+</table>
 </Center>
 <br/><br/><br/><br/><br/><br/><br/>
   </font>
