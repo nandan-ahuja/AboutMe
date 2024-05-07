@@ -54,7 +54,7 @@
 	</tr>
 
 	<tr align="center" >
-		<td>10</td> 
+		<td>8</td> 
 		<td>This is yours sincerely playing cricket. Enjoi ☺️ </td> 
 		<td><iframe width="300" src="https://www.youtube.com/embed/ZhMvGmsswC4">
 	</iframe>
@@ -64,12 +64,12 @@
 
 
 	<tr align="center" >
-		<td>8</td> 
+		<td>9</td> 
 		<td>My favourinte Car is <a href="https://www.mercedes-benz.co.in/passengercars/models/saloon/s-class/overview.html?gagcmid=GA_20685282901_153411965463_677718176123&gad_source=1&gclid=Cj0KCQjw_-GxBhC1ARIsADGgDju49Wj1TPB-0hNA22IOlg2SxyKBoN6FjPbkXoU7bly-mZK9yndyN8MaAvs_EALw_wcB&gclsrc=aw.ds" target="window"> Mercedes-Maybach S-Class </a></td> 
 		<td><img src="https://stat.overdrive.in/wp-content/uploads/2020/11/2021-Mercedes-Maybach-S-Class-front.jpg" width="200px" ></td> 
 	</tr>
 	<tr align="center" >
-		<td>9</td> 
+		<td>10</td> 
 		<td>I also like dogs, i generally take care of street dogs around my home</td> 
 		<td><img src="https://m.media-amazon.com/images/I/81CLcokYe+L.jpg" width="200px" ></td> 
 	</tr>
@@ -115,6 +115,26 @@
 		Pls specify if Others <input type="text" name="Last Name">
 	</td>
 </tr>
+
+<tr>	
+	<td><label> Where do you study : </label></td>
+	<td>
+		<select>
+			<option>Please Select</option>
+			<option>GTS</option>
+			<option>DPSG</option>
+			<option>SLPS</option>
+			<option>Nehru World School</option>
+			<option>St. Pauls Academy</option>
+			<option>DAV Sahibabad</option>
+			<option>Holy Child School</option>
+			<option>Others</option>
+		</select>
+		Pls specify if Others <input type="text" name="Last Name">
+	</td>
+</tr>
+
+
 
 <tr>	
 	<td><label> Do You like Cricket </label></td>
