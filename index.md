@@ -161,6 +161,6 @@
   <circle cx="50" cy="50" r="40" stroke="blue" stroke-width="4" fill="pink" />
   <square cx="50" cy="50" s="40" stroke="blue" stroke-width="4" fill="pink" />
 
-</svg>
+</svg> 
 
 
