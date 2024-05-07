@@ -163,4 +163,13 @@
 
 </svg> 
 
+<svg width="100" height="100">
+  
+  <rect x="70" y="70" width="200" height="100" stroke="red" stroke-width="6" fill="pink" />
+
+</svg> 
+
+
+
+
 
