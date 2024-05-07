@@ -1,4 +1,4 @@
- <span bgcolor="#D3ECE6">
+ <div bgcolor="#D3ECE6">
   <h1>
   	  	Hi my Name is Nandan Ahuja . <br/>
    		On this page, I am going to tell you about myself.
@@ -156,4 +156,4 @@
 </Center>
 <br/><br/><br/><br/><br/><br/><br/>
 </form>
-</span>
+</div>
